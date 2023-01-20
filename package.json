@@ -9,7 +9,8 @@
     "init-accounts": "node accounts",
     "fund-accounts": "node fundAccounts",
     "tokens": "node tokens",
-    "scheduled": "node scheduledTransaction"
+    "scheduled": "node scheduledTransaction",
+    "multisig": "node multisig"
   },
   "keywords": [],
   "author": "",
