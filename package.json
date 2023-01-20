@@ -10,7 +10,8 @@
     "fund-accounts": "node fundAccounts",
     "tokens": "node tokens",
     "scheduled": "node scheduledTransaction",
-    "multisig": "node multisig"
+    "multisig": "node multisig",
+    "consensus": "node consensus"
   },
   "keywords": [],
   "author": "",
