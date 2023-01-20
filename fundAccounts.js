@@ -30,5 +30,3 @@ async function main() {
 dotenv.config()
 
 await main()
-
-process.exit(0)

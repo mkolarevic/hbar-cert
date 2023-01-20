@@ -8,7 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "init-accounts": "node accounts",
     "fund-accounts": "node fundAccounts",
-    "tokens": "node tokens"
+    "tokens": "node tokens",
+    "scheduled": "node scheduledTransaction"
   },
   "keywords": [],
   "author": "",

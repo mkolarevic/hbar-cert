@@ -1,0 +1,87 @@
+{
+  "serializedTx": "0aa4012aa1010a9c010a1a0a0b08c8b6aa9e0610fdcdb14412090800100018ca9ac417180012060800100018051880cab5ee01220208783200d202690a350880c2d72f12004a2c0a2a0a130a090800100018ca9ac41710ffa7d6b90718000a130a090800100018cb9ac4171080a8d6b9071800120c5363686564756c65642074781a2212208e02674bd6b31074f8111bcc6db249af7d6c0d94831a5401ff17287419d309c612000aa4012aa1010a9c010a1a0a0b08c8b6aa9e0610fdcdb14412090800100018ca9ac417180012060800100018091880cab5ee01220208783200d202690a350880c2d72f12004a2c0a2a0a130a090800100018ca9ac41710ffa7d6b90718000a130a090800100018cb9ac4171080a8d6b9071800120c5363686564756c65642074781a2212208e02674bd6b31074f8111bcc6db249af7d6c0d94831a5401ff17287419d309c612000aa4012aa1010a9c010a1a0a0b08c8b6aa9e0610fdcdb14412090800100018ca9ac417180012060800100018071880cab5ee01220208783200d202690a350880c2d72f12004a2c0a2a0a130a090800100018ca9ac41710ffa7d6b90718000a130a090800100018cb9ac4171080a8d6b9071800120c5363686564756c65642074781a2212208e02674bd6b31074f8111bcc6db249af7d6c0d94831a5401ff17287419d309c612000aa4012aa1010a9c010a1a0a0b08c8b6aa9e0610fdcdb14412090800100018ca9ac417180012060800100018041880cab5ee01220208783200d202690a350880c2d72f12004a2c0a2a0a130a090800100018ca9ac41710ffa7d6b90718000a130a090800100018cb9ac4171080a8d6b9071800120c5363686564756c65642074781a2212208e02674bd6b31074f8111bcc6db249af7d6c0d94831a5401ff17287419d309c612000aa4012aa1010a9c010a1a0a0b08c8b6aa9e0610fdcdb14412090800100018ca9ac417180012060800100018081880cab5ee01220208783200d202690a350880c2d72f12004a2c0a2a0a130a090800100018ca9ac41710ffa7d6b90718000a130a090800100018cb9ac4171080a8d6b9071800120c5363686564756c65642074781a2212208e02674bd6b31074f8111bcc6db249af7d6c0d94831a5401ff17287419d309c612000aa4012aa1010a9c010a1a0a0b08c8b6aa9e0610fdcdb14412090800100018ca9ac417180012060800100018061880cab5ee01220208783200d202690a350880c2d72f12004a2c0a2a0a130a090800100018ca9ac41710ffa7d6b90718000a130a090800100018cb9ac4171080a8d6b9071800120c5363686564756c65642074781a2212208e02674bd6b31074f8111bcc6db249af7d6c0d94831a5401ff17287419d309c612000aa4012aa1010a9c010a1a0a0b08c8b6aa9e0610fdcdb14412090800100018ca9ac417180012060800100018031880cab5ee01220208783200d202690a350880c2d72f12004a2c0a2a0a130a090800100018ca9ac41710ffa7d6b90718000a130a090800100018cb9ac4171080a8d6b9071800120c5363686564756c65642074781a2212208e02674bd6b31074f8111bcc6db249af7d6c0d94831a5401ff17287419d309c61200",
+  "receipt": {
+    "status": {
+      "_code": 22
+    },
+    "accountId": null,
+    "fileId": null,
+    "contractId": null,
+    "topicId": null,
+    "tokenId": null,
+    "scheduleId": {
+      "shard": {
+        "low": 0,
+        "high": 0,
+        "unsigned": false
+      },
+      "realm": {
+        "low": 0,
+        "high": 0,
+        "unsigned": false
+      },
+      "num": {
+        "low": 49354614,
+        "high": 0,
+        "unsigned": false
+      },
+      "_checksum": null
+    },
+    "exchangeRate": {
+      "hbars": 30000,
+      "cents": 183900,
+      "expirationTime": "2023-01-20T14:00:00.000Z",
+      "exchangeRateInCents": 6.13
+    },
+    "topicSequenceNumber": {
+      "low": 0,
+      "high": 0,
+      "unsigned": false
+    },
+    "topicRunningHash": {},
+    "totalSupply": {
+      "low": 0,
+      "high": 0,
+      "unsigned": false
+    },
+    "scheduledTransactionId": {
+      "accountId": {
+        "shard": {
+          "low": 0,
+          "high": 0,
+          "unsigned": false
+        },
+        "realm": {
+          "low": 0,
+          "high": 0,
+          "unsigned": false
+        },
+        "num": {
+          "low": 49352010,
+          "high": 0,
+          "unsigned": false
+        },
+        "aliasKey": null,
+        "aliasEvmAddress": null,
+        "_checksum": null
+      },
+      "validStart": {
+        "seconds": {
+          "low": 1674222408,
+          "high": 0,
+          "unsigned": false
+        },
+        "nanos": {
+          "low": 143419133,
+          "high": 0,
+          "unsigned": false
+        }
+      },
+      "scheduled": true,
+      "nonce": null
+    },
+    "serials": [],
+    "duplicates": [],
+    "children": []
+  }
+}
