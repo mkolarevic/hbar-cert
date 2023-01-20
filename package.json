@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "init-accounts": "node accounts",
+    "fund-accounts": "node fundAccounts",
+    "tokens": "node tokens"
   },
   "keywords": [],
   "author": "",
